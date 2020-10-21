@@ -1,0 +1,90 @@
+.profile-page .page-header {
+    height: 380px;
+    background-position: top
+}
+
+.profile-page .profile {
+    text-align: center
+}
+
+.profile-page .profile img {
+    max-width: 160px;
+    width: 100%;
+    margin: 0 auto;
+    transform: translate3d(0,-50%,0)
+}
+
+.profile-page .profile .name {
+    margin-top: -80px
+}
+
+.profile-page .follow {
+    position: absolute;
+    top: 0;
+    right: 0
+}
+
+.profile-page .description {
+    margin: 1.071rem auto 0;
+    max-width: 600px
+}
+
+.profile-page .profile-tabs {
+    margin-top: 4.284rem
+}
+
+.profile-page .gallery {
+    margin-top: 3.213rem;
+    padding-bottom: 50px
+}
+
+.profile-page .gallery img {
+    width: 100%;
+    margin-bottom: 2.142rem
+}
+
+.profile-page .follow .btn-fab {
+    margin-top: -28px
+}
+
+.profile-page .card-background .content {
+    padding: 30% 0;
+    min-width: 160px
+}
+
+.profile-page .work {
+    padding: 40px 0
+}
+
+.profile-page .work .collections {
+    margin-top: 20px
+}
+
+.profile-page .work .stats ul>li {
+    padding: 5px 0;
+    font-size: 1em
+}
+
+.profile-page .work .stats ul>li b {
+    font-size: 1.2em
+}
+
+.profile-page .connections {
+    padding: 40px 0
+}
+
+.profile-page .connections .card-profile {
+    text-align: left
+}
+
+.profile-page .tab-content .collections .card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center
+}
+
+.profile-page .tab-content .collections .card .card-body .badge {
+    display: inline-table;
+    margin: 0 auto
+}
+
